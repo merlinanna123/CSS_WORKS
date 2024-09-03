@@ -1,0 +1,20 @@
+/*tagname|classname|id{
+property:value;
+property:value;
+}*/
+.box{
+    width:200px;
+    height:100px;
+    border-width:2px;
+    border-color:#1f1212 solid;
+    Color:black
+}
+.bg-success{
+    background-color:green;
+}
+.bg-warning{
+    background-color: yellow;
+}
+.bg-danger{
+    background-color: red;
+}
